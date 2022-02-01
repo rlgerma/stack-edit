@@ -1825,10 +1825,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fluentui/date-time-utilities@^8.2.3":
-  version "8.2.3"
-  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-8.2.3.tgz#99c304aea46f5278d4f799652eba0cc97801f4d0"
-  integrity sha512-lbXaKXpeWymzGk3YNwT3hUPfUSnYO3x6wS2Rj3ySzDY6OkMLOBBV6UVa2uRVRXCio5GcJyMo9Wtgv77gmHl2fQ==
+"@fluentui/date-time-utilities@^8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-8.3.0.tgz#a51cd59ea327b948bdb76a083d9c42d95a71c98a"
+  integrity sha512-shSWwarh+ueDF22hIRL1T9bGA4epsP8QAIfYhpoK5ySr0Zg5RjqdNMM5IXzlTiXqE/LGe16CVrvyW2ksqfvQPg==
   dependencies:
     "@fluentui/set-version" "^8.1.5"
     tslib "^2.1.0"
@@ -1906,12 +1906,12 @@
     "@fluentui/set-version" "^8.1.5"
     tslib "^2.1.0"
 
-"@fluentui/react@^8.49.1":
-  version "8.49.1"
-  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-8.49.1.tgz#43ad710bd732902ed499788b20ef93d3ef56cfc7"
-  integrity sha512-w7B3E3eMPNF6dXM6+fjDoCr3KQZWg2ywC/FrZMyNOj/Ge78iKJtCi7fLRuRKLEdA/+zxMAID1YEl8CWd0XvrEA==
+"@fluentui/react@^8.52.0":
+  version "8.52.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-8.52.0.tgz#85a9408af7473ba1c3835e91275927c77fcd4e62"
+  integrity sha512-Z4d0IMnOqP5g4XooWOrommSkP/Wqn2uGRD0VwzjtcVSMFFYkgqpRBMMjvi+Luj23SHz/UQcmJXix3Fv0tz2lAQ==
   dependencies:
-    "@fluentui/date-time-utilities" "^8.2.3"
+    "@fluentui/date-time-utilities" "^8.3.0"
     "@fluentui/font-icons-mdl2" "^8.1.20"
     "@fluentui/foundation-legacy" "^8.1.19"
     "@fluentui/merge-styles" "^8.2.3"
