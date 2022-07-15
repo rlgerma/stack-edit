@@ -46,7 +46,7 @@
   "devDependencies": {
     "@changesets/cli": "^2.23.1",
     "@tauri-apps/cli": "^1.0.4",
-    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
     "@typescript-eslint/parser": "^5.30.6",
     "eslint": "^8.16.0",
     "eslint-plugin-react": "^7.30.1"
