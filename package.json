@@ -68,7 +68,7 @@
     "@storybook/react": "^6.5.9",
     "@storybook/testing-library": "^0.0.13",
     "@tauri-apps/cli": "^1.0.5",
-    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
     "@typescript-eslint/parser": "^5.31.0",
     "babel-plugin-named-exports-order": "^0.0.2",
     "eslint": "^8.21.0",
